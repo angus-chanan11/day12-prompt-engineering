@@ -54,70 +54,30 @@ Sarah Lee, a tech-savvy marketing manager, seeks a hassle-free and socially enga
 
 The user journey should include the below parts:
 - user action
-- touch point
+- touch point (if the touch point is the app, also provide the corresponding feature or page)
 - emotion
 - pain point
 
+output as a markdown table
+
 # generated
 
-### User Journey for MovieMate
+Here's a detailed user journey for Sarah Lee using the MovieMate app:
 
-#### 1. Discovering the App
-- **User Action:** Sarah hears about MovieMate from a friend and decides to download it from the app store.
-- **Touch Point:** App Store, Friend's recommendation
-- **Emotion:** Curious and hopeful
-- **Pain Point:** None at this stage
+| **User Action**                           | **Touch Point**                          | **Emotion**                | **Pain Point**                                                                 |
+|-------------------------------------------|------------------------------------------|----------------------------|--------------------------------------------------------------------------------|
+| Opens the MovieMate app                   | App Home Screen                          | Curious, Hopeful           | Dislikes waiting in long queues for tickets                                    |
+| Searches for movies playing in nearby malls | Movie Listings Page                      | Interested, Excited        | Needs to find a movie that fits her schedule                                   |
+| Selects a movie and views details         | Movie Details Page                       | Informed, Decisive         | Uncertainty about the quality of the seat view                                 |
+| Invites friends to join her for the movie | Social Feature (Invite Friends)           | Social, Connected          | Finds it challenging to coordinate movie outings with friends                  |
+| Checks seat availability and previews seats | Seat Selection Page (with real-time previews) | Confident, Reassured       | Without visiting the actual cinema, it is difficult to know if the seat has a good view |
+| Chooses seats and proceeds to book tickets | Seat Selection Page                      | Satisfied, Relieved        | Dislikes waiting in long queues for tickets                                    |
+| Pre-orders snacks for the movie           | Snack Pre-order Page                     | Convenient, Happy          | Needs time to buy snacks before the movie starts                               |
+| Completes the payment process             | Payment Page                             | Accomplished, Pleased      | Dislikes waiting in long queues for tickets                                    |
+| Receives booking confirmation and e-tickets | Confirmation Page/Email                  | Assured, Excited           | Dislikes waiting in long queues for tickets                                    |
+| Arrives at the mall and skips the ticket queue | Mall Entrance/Cinema Entrance            | Relieved, Happy            | Dislikes waiting in long queues for tickets                                    |
+| Collects pre-ordered snacks               | Snack Collection Counter                 | Convenient, Satisfied      | Needs time to buy snacks before the movie starts                               |
+| Enjoys the movie with friends             | Cinema Hall                              | Engaged, Entertained       | Feels isolated during the movie as interaction is limited                      |
+| Shares her movie experience on social media | Social Sharing Feature                   | Content, Social            | Feels isolated during the movie as interaction is limited                      |
 
-#### 2. Signing Up and Setting Preferences
-- **User Action:** Sarah signs up for MovieMate, sets her preferences for movie genres, and connects her social media accounts.
-- **Touch Point:** MovieMate app interface
-- **Emotion:** Excited and engaged
-- **Pain Point:** Initial setup time
-
-#### 3. Browsing Movies and Viewing Seat Previews
-- **User Action:** Sarah browses through the list of movies playing at her favorite mall and uses the seat preview feature to check the view from different seats.
-- **Touch Point:** MovieMate app interface
-- **Emotion:** Impressed and satisfied
-- **Pain Point:** Uncertainty about seat quality resolved
-
-#### 4. Finding Movie Buddies
-- **User Action:** Sarah uses the app's social feature to find friends who are interested in watching the same movie.
-- **Touch Point:** MovieMate app interface, Social media integration
-- **Emotion:** Connected and excited
-- **Pain Point:** Difficulty in coordinating with friends resolved
-
-#### 5. Booking Tickets
-- **User Action:** Sarah selects a movie, chooses her preferred seats, and books the tickets.
-- **Touch Point:** MovieMate app interface
-- **Emotion:** Relieved and happy
-- **Pain Point:** Avoids the hassle of queuing for tickets
-
-#### 6. Pre-ordering Snacks
-- **User Action:** Sarah pre-orders her favorite snacks to pick up at the cinema.
-- **Touch Point:** MovieMate app interface
-- **Emotion:** Convenient and satisfied
-- **Pain Point:** Saves time on buying snacks
-
-#### 7. Arriving at the Cinema
-- **User Action:** Sarah arrives at the cinema, picks up her pre-ordered snacks, and heads to her seat.
-- **Touch Point:** Cinema, MovieMate app for order confirmation
-- **Emotion:** Relaxed and ready for the movie
-- **Pain Point:** None at this stage
-
-#### 8. Watching the Movie
-- **User Action:** Sarah enjoys the movie with her friends, sharing reactions and comments through the app's social features.
-- **Touch Point:** MovieMate app interface during the movie
-- **Emotion:** Engaged and entertained
-- **Pain Point:** Limited interaction during the movie resolved
-
-#### 9. Post-Movie Interaction
-- **User Action:** After the movie, Sarah rates the movie and shares her experience on social media through the app.
-- **Touch Point:** MovieMate app interface, Social media platforms
-- **Emotion:** Satisfied and connected
-- **Pain Point:** None at this stage
-
-#### 10. Planning the Next Movie Outing
-- **User Action:** Sarah uses the app to plan her next movie outing, checking for upcoming releases and coordinating with friends.
-- **Touch Point:** MovieMate app interface
-- **Emotion:** Anticipative and excited
-- **Pain Point:** None at this stage
+This journey highlights how MovieMate addresses Sarah's pain points and enhances her movie-going experience through its various features.
